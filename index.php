@@ -41,7 +41,7 @@
 
 
   <!-- Start Header Jumbotron-->
-  <header class="jumbotron back-image mt-5" style="background-image: url(images/banner.jpg);">
+  <header class="jumbotron back-image mt-5" style="background-image: url(images/plumber-4427401_1920.jpg);">
     <div class="myclass mainHeading">
       <h1 class="text-uppercase font-weight-bold">Welcome to OSMS</h1>
       <p class="font-italic">Customer's Happiness is our Aim</p>
