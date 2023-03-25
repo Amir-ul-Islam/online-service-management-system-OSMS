@@ -41,9 +41,9 @@
 
 
   <!-- Start Header Jumbotron-->
-  <header class="jumbotron back-image mt-5" style="background-image: url(images/banner2.jpg);">
+  <header class="jumbotron back-image mt-5" style="background-image: url(images/banner.jpg);">
     <div class="myclass mainHeading">
-      <h1 class="text-uppercase text-danger font-weight-bold">Welcome to OSMS</h1>
+      <h1 class="text-uppercase font-weight-bold">Welcome to OSMS</h1>
       <p class="font-italic">Customer's Happiness is our Aim</p>
       <a href="Requester/RequesterLogin.php" class="btn btn-success mr-4">Login</a>
       <a href="#registration" class="btn btn-danger mr-4">Sign Up</a>
